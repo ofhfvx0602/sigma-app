@@ -32,9 +32,7 @@ CLOUDINARY_API_SECRET=...
 ```bash
 npm run build
 ```
-
-### Start the app
-
+### Build the app
 ```bash
 npm start
 ```
