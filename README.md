@@ -1,5 +1,7 @@
-<h1 align=center>X Clone</h1>
-![X clone](https://github.com/ofhfvx0602/sigma-app/assets/95751619/4e63c618-4ee4-4d3b-922b-6fd4ff6f9918)
+<h1 align=center>X Clone</h1
+
+
+![X clone](https://github.com/ofhfvx0602/sigma-app/assets/95751619/d0b3aeaa-ad1e-4c84-8dcf-2c0c5f995cb1)
 
 ## 📌 Key Features
 
