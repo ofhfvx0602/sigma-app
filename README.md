@@ -35,4 +35,3 @@ npm run build
 ### Build the app
 ```bash
 npm start
-```
