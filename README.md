@@ -3,7 +3,7 @@
 ![X clone](https://github.com/ofhfvx0602/sigma-app/assets/95751619/d0b3aeaa-ad1e-4c84-8dcf-2c0c5f995cb1)
 
 ## メイン機能
-- ⚛️ 技術スタック: React.js, MongoDB, Node.js, Express, Tailwind, React Query, JWT, Socket.io, postman, render
+- ⚛️ 技術スタック: Javascript, React.js, MongoDB, Node.js, Express, Tailwind, React Query, JWT, Socket.io, postman, render
 - 🔐 JSONWEBTOKENS (JWT)による認証
 - 🔥 React Queryによるデータフェッチ、キャッシュなど
 - 👥 フォローするユーザーを提案することができる
